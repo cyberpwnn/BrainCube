@@ -1,0 +1,6 @@
+package org.cyberpwn.braincube.braincube
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
